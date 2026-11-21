@@ -1,0 +1,279 @@
+{
+  "version": 0.3,
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/wide.png",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/square.png",
+            "width": 1774,
+            "height": 887,
+            "widthMobile": 1254,
+            "heightMobile": 1254,
+            "alt": "Игровой стенд для волнистых попугаев"
+          },
+          "title": {
+            "content": [
+              "Игровой стенд для волнистых попугаев"
+            ]
+          },
+          "text": {
+            "content": [
+              "Деревянная площадка с жердочками, качелями и лесенкой крепится к крыше клетки."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "title": {
+        "content": [
+          "Что входит в комплект"
+        ]
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tileM",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/swing.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/swing.jpg",
+            "width": 1086,
+            "height": 1115,
+            "widthMobile": 1086,
+            "heightMobile": 1115,
+            "alt": "Качели"
+          },
+          "title": {
+            "content": [
+              "Качели"
+            ]
+          },
+          "text": {
+            "content": [
+              "Деревянная перекладина на крючках. Высота 11 см, ширина 8 см."
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/ladder.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/ladder.jpg",
+            "width": 1086,
+            "height": 1216,
+            "widthMobile": 1086,
+            "heightMobile": 1216,
+            "alt": "Лесенка и присады"
+          },
+          "title": {
+            "content": [
+              "Лесенка и присады"
+            ]
+          },
+          "text": {
+            "content": [
+              "Две ступени ведут к жердочке. Высота лесенки 10 см, ширина 7 см."
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/chew.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/chew.jpg",
+            "width": 348,
+            "height": 811,
+            "widthMobile": 348,
+            "heightMobile": 811,
+            "alt": "Игрушки-погрызушки"
+          },
+          "title": {
+            "content": [
+              "Игрушки-погрызушки"
+            ]
+          },
+          "text": {
+            "content": [
+              "На подвесках — деревянные бусины, диски, плетёные шарики и колокольчики."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/dimensions.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/dimensions.jpg",
+            "width": 1086,
+            "height": 1115,
+            "widthMobile": 1086,
+            "heightMobile": 1115,
+            "alt": "Размеры стенда"
+          },
+          "title": {
+            "content": [
+              "Размеры стенда"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTable",
+      "table": {
+        "head": [
+          {
+            "text": [
+              "Деталь"
+            ]
+          },
+          {
+            "text": [
+              "Размер"
+            ]
+          }
+        ],
+        "body": [
+          [
+            [
+              "Высота правой стойки"
+            ],
+            [
+              "25 см"
+            ]
+          ],
+          [
+            [
+              "Правая верхняя перекладина"
+            ],
+            [
+              "21 см"
+            ]
+          ],
+          [
+            [
+              "Центральная перекладина"
+            ],
+            [
+              "24 см"
+            ]
+          ],
+          [
+            [
+              "Левая перекладина"
+            ],
+            [
+              "15 см"
+            ]
+          ],
+          [
+            [
+              "Качели, высота × ширина"
+            ],
+            [
+              "11 × 8 см"
+            ]
+          ],
+          [
+            [
+              "Лесенка, высота × ширина"
+            ],
+            [
+              "10 × 7 см"
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "chess",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/mount.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/mount.jpg",
+            "width": 804,
+            "height": 522,
+            "widthMobile": 804,
+            "heightMobile": 522,
+            "alt": "Как закрепить стенд"
+          },
+          "title": {
+            "content": [
+              "Как закрепить стенд"
+            ]
+          },
+          "text": {
+            "content": [
+              "Деревянные детали вставляются в пазы без инструментов. Стойки крепятся к прутьям крыши клетки."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "list",
+      "theme": "number",
+      "blocks": [
+        {
+          "text": {
+            "content": [
+              "Открутите гайку-барашек."
+            ]
+          }
+        },
+        {
+          "text": {
+            "content": [
+              "Установите стойку с первой шайбой на клетку. Пропустите винт между прутьями."
+            ]
+          }
+        },
+        {
+          "text": {
+            "content": [
+              "Наденьте вторую шайбу изнутри клетки и затяните гайку."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "chess",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://eazzzymax.github.io/bird-stand-preview/rich/rattan.jpg",
+            "srcMobile": "https://eazzzymax.github.io/bird-stand-preview/rich/rattan.jpg",
+            "width": 576,
+            "height": 956,
+            "widthMobile": 576,
+            "heightMobile": 956,
+            "alt": "Дерево и ротанг"
+          },
+          "title": {
+            "content": [
+              "Дерево и ротанг"
+            ]
+          },
+          "text": {
+            "content": [
+              "Жердочки и бусины сделаны из дерева, плетёные шарики — из ротанга. Крепления металлические. Деревянные детали собраны без клея."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
